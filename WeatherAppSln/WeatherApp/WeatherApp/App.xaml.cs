@@ -1,4 +1,5 @@
 ﻿using System;
+using WeatherApp;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
